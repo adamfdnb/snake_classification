@@ -24,12 +24,9 @@ to get information use ```collage.py -h```
    4.3 Cloud Deploying <br>
 5. Summary with conclusions
 
-## Setup
-Follow the instructions in [SETUP.md](./SETUP.md)  
-
 ### Clone the repo
 Open a terminal and execute:  
-`git clone https://github.com/MarcosMJD/ml-mango-classification.git`
+`git clone https://github.com/adamfdnb/snake_classification.git`
 
 ### 1. Problem & Goal Description
 
