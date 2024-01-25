@@ -5,7 +5,9 @@
   <img src="https://github.com/adamfdnb/course-mlzoomcamp2023/blob/main/Capstone%20Project%202/images/collage_v2.jpg">
 </p>
 
-*collage from a dataset*
+*collage from a dataset*<br>
+You can create your own collage you can execute the file ```collage.py```<br>
+to get information use ```collage.py -h```
 
 #### This repository contains a Capstone project 2 conducted as part of the [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) online course designed and taught by [Alexey Grigorev](https://github.com/alexeygrigorev) and his team from [DataTalks.Club](https://datatalks.club/). This project took 2 weeks to complete. The idea behind this project is to implement everything we have learned over the past several weeks and many hours exploring deep learning.
 
